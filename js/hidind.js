@@ -1,16 +1,16 @@
-  <script>
+ 
     $(document).ready(function(){
   $('.slider').slider({
     height:520
   });
 });
-  </script>
-  <script>
+  
+ 
    $(document).ready(function(){
     $('.scrollspy').scrollSpy();
   });
-  </script>
-  <script>
+  
+ 
     (function ($) {
   var methods = {
     init : function(options) {
@@ -273,19 +273,19 @@
         $.error( 'Method ' +  methodOrOptions + ' does not exist on jQuery.tooltip' );
       }
     }; // Plugin end
-}( jQuery ));  <script>
+}( jQuery )); 
     $(document).ready(function(){
   $('.slider').slider({
     height:520
   });
 });
-  </script>
-  <script>
+  
+ 
    $(document).ready(function(){
     $('.scrollspy').scrollSpy();
   });
-  </script>
-  <script>
+  
+ 
     (function ($) {
   var methods = {
     init : function(options) {
